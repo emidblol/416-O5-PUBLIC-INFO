@@ -1,1 +1,1 @@
-This is a public info repository made by ADHD (or Emile). 
+This is a public info repository made by Emile.
